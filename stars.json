@@ -7,33 +7,33 @@
   },
   {
     "full_name": "0x6b/copy-selection-as-markdown",
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 22,
     "forks_count": 14
   },
   {
     "full_name": "blai30/Lotus-Theme",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "google/magic-github-proxy",
-    "stargazers_count": 130,
+    "stargazers_count": 137,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "UberGuidoZ/Flipper",
-    "stargazers_count": 1491,
-    "open_issues_count": 0,
-    "forks_count": 235
+    "stargazers_count": 1726,
+    "open_issues_count": 1,
+    "forks_count": 278
   },
   {
     "full_name": "alyssaxuu/omni",
-    "stargazers_count": 5463,
+    "stargazers_count": 5477,
     "open_issues_count": 39,
-    "forks_count": 221
+    "forks_count": 222
   },
   {
     "full_name": "MLeadbetter/prng",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "owenrumney/lazytrivy",
-    "stargazers_count": 138,
+    "stargazers_count": 151,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "cweill/gotests",
-    "stargazers_count": 4200,
+    "stargazers_count": 4208,
     "open_issues_count": 53,
-    "forks_count": 311
+    "forks_count": 314
   },
   {
     "full_name": "knqyf263/azaws",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "0xAX/linux-insides",
-    "stargazers_count": 26994,
+    "stargazers_count": 27048,
     "open_issues_count": 24,
-    "forks_count": 3054
+    "forks_count": 3058
   },
   {
     "full_name": "securitytxt/security-txt",
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "lizrice/learning-ebpf",
-    "stargazers_count": 54,
+    "stargazers_count": 56,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "daehee/nvd",
     "stargazers_count": 20,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 6
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "liamg/gifwrap",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "chrislockard/api_wordlist",
-    "stargazers_count": 511,
+    "stargazers_count": 518,
     "open_issues_count": 0,
-    "forks_count": 151
+    "forks_count": 152
   },
   {
     "full_name": "MariaLetta/free-gophers-pack",
-    "stargazers_count": 2552,
+    "stargazers_count": 2554,
     "open_issues_count": 1,
     "forks_count": 152
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 27372,
-    "open_issues_count": 200,
-    "forks_count": 1137
+    "stargazers_count": 27561,
+    "open_issues_count": 203,
+    "forks_count": 1141
   },
   {
     "full_name": "efokschaner/terraform-provider-factorio",
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "iovisor/gobpf",
-    "stargazers_count": 1795,
-    "open_issues_count": 70,
+    "stargazers_count": 1797,
+    "open_issues_count": 71,
     "forks_count": 286
   },
   {
     "full_name": "libbpf/libbpf-bootstrap",
-    "stargazers_count": 392,
+    "stargazers_count": 396,
     "open_issues_count": 10,
-    "forks_count": 129
+    "forks_count": 130
   },
   {
     "full_name": "cilium/ebpf",
-    "stargazers_count": 3321,
-    "open_issues_count": 31,
-    "forks_count": 364
+    "stargazers_count": 3344,
+    "open_issues_count": 33,
+    "forks_count": 365
   },
   {
     "full_name": "liamg/loading",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "liamg/dismember",
-    "stargazers_count": 258,
+    "stargazers_count": 276,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 20
   }
 ]
