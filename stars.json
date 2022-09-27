@@ -25,15 +25,15 @@
   },
   {
     "full_name": "UberGuidoZ/Flipper",
-    "stargazers_count": 1817,
+    "stargazers_count": 1879,
     "open_issues_count": 0,
-    "forks_count": 290
+    "forks_count": 308
   },
   {
     "full_name": "alyssaxuu/omni",
-    "stargazers_count": 5491,
+    "stargazers_count": 5500,
     "open_issues_count": 39,
-    "forks_count": 221
+    "forks_count": 220
   },
   {
     "full_name": "MLeadbetter/prng",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "owenrumney/lazytrivy",
-    "stargazers_count": 154,
+    "stargazers_count": 156,
     "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "cweill/gotests",
-    "stargazers_count": 4216,
+    "stargazers_count": 4222,
     "open_issues_count": 53,
     "forks_count": 314
   },
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "krol3/demo-trivy-postee",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "0xAX/linux-insides",
-    "stargazers_count": 27071,
+    "stargazers_count": 27101,
     "open_issues_count": 24,
-    "forks_count": 3063
+    "forks_count": 3067
   },
   {
     "full_name": "securitytxt/security-txt",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "liamg/guerrilla",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "chrislockard/api_wordlist",
-    "stargazers_count": 519,
+    "stargazers_count": 520,
     "open_issues_count": 0,
     "forks_count": 153
   },
   {
     "full_name": "MariaLetta/free-gophers-pack",
-    "stargazers_count": 2555,
+    "stargazers_count": 2558,
     "open_issues_count": 1,
-    "forks_count": 152
+    "forks_count": 154
   },
   {
     "full_name": "widdix/complete-aws-iam-reference",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 27697,
-    "open_issues_count": 200,
-    "forks_count": 1147
+    "stargazers_count": 27805,
+    "open_issues_count": 197,
+    "forks_count": 1153
   },
   {
     "full_name": "efokschaner/terraform-provider-factorio",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "libbpf/libbpf-bootstrap",
-    "stargazers_count": 396,
+    "stargazers_count": 398,
     "open_issues_count": 9,
     "forks_count": 130
   },
   {
     "full_name": "cilium/ebpf",
-    "stargazers_count": 3358,
+    "stargazers_count": 3375,
     "open_issues_count": 30,
-    "forks_count": 368
+    "forks_count": 370
   },
   {
     "full_name": "liamg/loading",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "agnivade/levenshtein",
-    "stargazers_count": 235,
+    "stargazers_count": 237,
     "open_issues_count": 1,
     "forks_count": 17
   },
   {
     "full_name": "liamg/dismember",
-    "stargazers_count": 277,
+    "stargazers_count": 280,
     "open_issues_count": 0,
     "forks_count": 20
   }
