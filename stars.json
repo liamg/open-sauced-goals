@@ -1,13 +1,13 @@
 [
   {
     "full_name": "rapid7/ssh-badkeys",
-    "stargazers_count": 747,
+    "stargazers_count": 751,
     "open_issues_count": 8,
     "forks_count": 118
   },
   {
     "full_name": "stefanmaric/g",
-    "stargazers_count": 622,
+    "stargazers_count": 623,
     "open_issues_count": 7,
     "forks_count": 37
   },
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "santhosh-tekuri/jsonschema",
-    "stargazers_count": 472,
+    "stargazers_count": 475,
     "open_issues_count": 10,
     "forks_count": 56
   },
   {
     "full_name": "MSPaintIDE/MSPaintIDE",
-    "stargazers_count": 1190,
+    "stargazers_count": 1191,
     "open_issues_count": 5,
     "forks_count": 34
   },
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "google/magic-github-proxy",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "UberGuidoZ/Flipper",
-    "stargazers_count": 1971,
+    "stargazers_count": 1999,
     "open_issues_count": 0,
-    "forks_count": 330
+    "forks_count": 341
   },
   {
     "full_name": "alyssaxuu/omni",
-    "stargazers_count": 5524,
+    "stargazers_count": 5540,
     "open_issues_count": 39,
-    "forks_count": 224
+    "forks_count": 225
   },
   {
     "full_name": "MLeadbetter/prng",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "cweill/gotests",
-    "stargazers_count": 4237,
+    "stargazers_count": 4242,
     "open_issues_count": 53,
-    "forks_count": 314
+    "forks_count": 313
   },
   {
     "full_name": "knqyf263/azaws",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "0xAX/linux-insides",
-    "stargazers_count": 27150,
+    "stargazers_count": 27162,
     "open_issues_count": 24,
-    "forks_count": 3074
+    "forks_count": 3078
   },
   {
     "full_name": "securitytxt/security-txt",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "lizrice/learning-ebpf",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -139,19 +139,19 @@
   },
   {
     "full_name": "liamg/guerrilla",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "chrislockard/api_wordlist",
-    "stargazers_count": 519,
+    "stargazers_count": 521,
     "open_issues_count": 0,
-    "forks_count": 154
+    "forks_count": 155
   },
   {
     "full_name": "MariaLetta/free-gophers-pack",
-    "stargazers_count": 2563,
+    "stargazers_count": 2566,
     "open_issues_count": 1,
     "forks_count": 154
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 28004,
-    "open_issues_count": 206,
-    "forks_count": 1167
+    "stargazers_count": 28080,
+    "open_issues_count": 210,
+    "forks_count": 1169
   },
   {
     "full_name": "efokschaner/terraform-provider-factorio",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "iovisor/gobpf",
-    "stargazers_count": 1797,
+    "stargazers_count": 1798,
     "open_issues_count": 70,
-    "forks_count": 287
+    "forks_count": 288
   }
 ]
