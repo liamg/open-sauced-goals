@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "ryanoasis/nerd-fonts",
+    "stargazers_count": 39383,
+    "open_issues_count": 237,
+    "forks_count": 3056
+  },
+  {
     "full_name": "sw-yx/ask-cli",
-    "stargazers_count": 34,
+    "stargazers_count": 80,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "wailsapp/wails",
-    "stargazers_count": 12602,
-    "open_issues_count": 97,
-    "forks_count": 580
+    "stargazers_count": 12668,
+    "open_issues_count": 102,
+    "forks_count": 584
   },
   {
     "full_name": "liamg/lcd",
@@ -19,49 +25,49 @@
   },
   {
     "full_name": "liamg/siphon",
-    "stargazers_count": 131,
+    "stargazers_count": 138,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 6648,
-    "open_issues_count": 30,
-    "forks_count": 82
+    "stargazers_count": 7065,
+    "open_issues_count": 29,
+    "forks_count": 91
   },
   {
     "full_name": "shawnridgeway/wfc",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "mxgmn/WaveFunctionCollapse",
-    "stargazers_count": 20169,
+    "stargazers_count": 20187,
     "open_issues_count": 1,
-    "forks_count": 1069
+    "forks_count": 1071
   },
   {
     "full_name": "pop3ret/AWSome-Pentesting",
-    "stargazers_count": 546,
+    "stargazers_count": 554,
     "open_issues_count": 0,
-    "forks_count": 53
+    "forks_count": 57
   },
   {
     "full_name": "dstotijn/hetty",
-    "stargazers_count": 4988,
+    "stargazers_count": 4992,
     "open_issues_count": 18,
-    "forks_count": 278
+    "forks_count": 277
   },
   {
     "full_name": "rapid7/ssh-badkeys",
-    "stargazers_count": 753,
+    "stargazers_count": 754,
     "open_issues_count": 8,
-    "forks_count": 117
+    "forks_count": 118
   },
   {
     "full_name": "stefanmaric/g",
-    "stargazers_count": 644,
+    "stargazers_count": 646,
     "open_issues_count": 6,
     "forks_count": 37
   },
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "santhosh-tekuri/jsonschema",
-    "stargazers_count": 495,
+    "stargazers_count": 498,
     "open_issues_count": 12,
     "forks_count": 58
   },
@@ -109,13 +115,13 @@
   },
   {
     "full_name": "UberGuidoZ/Flipper",
-    "stargazers_count": 2326,
+    "stargazers_count": 2385,
     "open_issues_count": 0,
-    "forks_count": 391
+    "forks_count": 404
   },
   {
     "full_name": "alyssaxuu/omni",
-    "stargazers_count": 5631,
+    "stargazers_count": 5646,
     "open_issues_count": 39,
     "forks_count": 223
   },
@@ -133,7 +139,7 @@
   },
   {
     "full_name": "cweill/gotests",
-    "stargazers_count": 4280,
+    "stargazers_count": 4285,
     "open_issues_count": 52,
     "forks_count": 315
   },
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "0xAX/linux-insides",
-    "stargazers_count": 27254,
+    "stargazers_count": 27268,
     "open_issues_count": 25,
-    "forks_count": 3098
+    "forks_count": 3100
   },
   {
     "full_name": "securitytxt/security-txt",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "lizrice/learning-ebpf",
-    "stargazers_count": 60,
+    "stargazers_count": 62,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 20,
     "open_issues_count": 0,
     "forks_count": 7
-  },
-  {
-    "full_name": "projectdiscovery/nvd",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
