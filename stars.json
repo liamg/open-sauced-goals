@@ -7,21 +7,21 @@
   },
   {
     "full_name": "ariga/atlas",
-    "stargazers_count": 2133,
-    "open_issues_count": 33,
-    "forks_count": 94
+    "stargazers_count": 2147,
+    "open_issues_count": 36,
+    "forks_count": 93
   },
   {
     "full_name": "fsouza/fake-gcs-server",
-    "stargazers_count": 690,
+    "stargazers_count": 695,
     "open_issues_count": 44,
-    "forks_count": 157
+    "forks_count": 158
   },
   {
     "full_name": "runfinch/finch",
-    "stargazers_count": 1749,
-    "open_issues_count": 30,
-    "forks_count": 48
+    "stargazers_count": 1832,
+    "open_issues_count": 33,
+    "forks_count": 51
   },
   {
     "full_name": "kelseyhightower/run",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "koca/vue-prism-editor",
-    "stargazers_count": 667,
+    "stargazers_count": 669,
     "open_issues_count": 26,
     "forks_count": 83
   },
@@ -49,69 +49,69 @@
   },
   {
     "full_name": "elazarl/goproxy",
-    "stargazers_count": 5163,
+    "stargazers_count": 5169,
     "open_issues_count": 206,
-    "forks_count": 967
+    "forks_count": 968
   },
   {
     "full_name": "snail007/goproxy",
-    "stargazers_count": 13124,
-    "open_issues_count": 98,
-    "forks_count": 2633
+    "stargazers_count": 13133,
+    "open_issues_count": 99,
+    "forks_count": 2635
   },
   {
     "full_name": "bootstrap-vue/bootstrap-vue",
-    "stargazers_count": 14129,
-    "open_issues_count": 155,
+    "stargazers_count": 14132,
+    "open_issues_count": 156,
     "forks_count": 1899
   },
   {
     "full_name": "cursorless-dev/cursorless",
-    "stargazers_count": 519,
-    "open_issues_count": 353,
+    "stargazers_count": 520,
+    "open_issues_count": 351,
     "forks_count": 39
   },
   {
     "full_name": "OWASP/crAPI",
     "stargazers_count": 524,
     "open_issues_count": 25,
-    "forks_count": 121
+    "forks_count": 125
   },
   {
     "full_name": "assetnote/kiterunner",
-    "stargazers_count": 1721,
-    "open_issues_count": 36,
+    "stargazers_count": 1726,
+    "open_issues_count": 37,
     "forks_count": 192
   },
   {
     "full_name": "ine-labs/AWSGoat",
-    "stargazers_count": 948,
+    "stargazers_count": 954,
     "open_issues_count": 1,
-    "forks_count": 323
+    "forks_count": 324
   },
   {
     "full_name": "ianyh/Amethyst",
-    "stargazers_count": 12017,
+    "stargazers_count": 12033,
     "open_issues_count": 329,
-    "forks_count": 427
+    "forks_count": 426
   },
   {
     "full_name": "projectdiscovery/katana",
-    "stargazers_count": 4904,
-    "open_issues_count": 56,
-    "forks_count": 212
+    "stargazers_count": 4993,
+    "open_issues_count": 53,
+    "forks_count": 213
   },
   {
     "full_name": "carlospolop/hacktricks-cloud",
-    "stargazers_count": 152,
+    "stargazers_count": 154,
     "open_issues_count": 1,
     "forks_count": 35
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 40086,
-    "open_issues_count": 250,
-    "forks_count": 3119
+    "stargazers_count": 40154,
+    "open_issues_count": 249,
+    "forks_count": 3120
   },
   {
     "full_name": "sw-yx/ask-cli",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "wailsapp/wails",
-    "stargazers_count": 13135,
-    "open_issues_count": 99,
-    "forks_count": 612
+    "stargazers_count": 13174,
+    "open_issues_count": 100,
+    "forks_count": 615
   },
   {
     "full_name": "liamg/lcd",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "liamg/siphon",
-    "stargazers_count": 157,
+    "stargazers_count": 159,
     "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "charmbracelet/vhs",
-    "stargazers_count": 8614,
-    "open_issues_count": 32,
-    "forks_count": 124
+    "stargazers_count": 8655,
+    "open_issues_count": 33,
+    "forks_count": 127
   },
   {
     "full_name": "shawnridgeway/wfc",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "mxgmn/WaveFunctionCollapse",
-    "stargazers_count": 20295,
+    "stargazers_count": 20307,
     "open_issues_count": 1,
-    "forks_count": 1072
+    "forks_count": 1074
   },
   {
     "full_name": "pop3ret/AWSome-Pentesting",
-    "stargazers_count": 571,
+    "stargazers_count": 574,
     "open_issues_count": 0,
     "forks_count": 60
   },
   {
     "full_name": "dstotijn/hetty",
-    "stargazers_count": 5025,
+    "stargazers_count": 5033,
     "open_issues_count": 18,
     "forks_count": 277
   },
   {
     "full_name": "rapid7/ssh-badkeys",
-    "stargazers_count": 759,
+    "stargazers_count": 760,
     "open_issues_count": 8,
     "forks_count": 120
   },
   {
     "full_name": "stefanmaric/g",
-    "stargazers_count": 653,
+    "stargazers_count": 654,
     "open_issues_count": 6,
-    "forks_count": 37
+    "forks_count": 38
   }
 ]
